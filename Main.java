@@ -23,10 +23,11 @@ class Main {
         System.out.println(c);
         c += 2;
       }
-      
+
     switch (number) {
     default:
     System.out.println(number + "Blast off!");
     }
   }
 }
+//code doesn't work, I used exactly what you had in the last video to copy just to play around to figure out the assignment and it doesn't work so I don't know what to do for the assignment
